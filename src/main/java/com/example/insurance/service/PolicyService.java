@@ -88,6 +88,8 @@ public class PolicyService {
     public List<Policy> filterPolicies(Integer minPremium, Integer maxPremium, String policyType, Integer minCoverage, String sortOrder, String policyName) {
         List<Policy> filtered = getPolicies();
 
+        filtered = sortPolicies(filtered, sortOrder);
+
         if (!CommonUtils.nullOrEmpty(maxPremium) && !CommonUtils.nullOrEmpty(minPremium)) {
             filtered = filterByPremiumRange(filtered, minPremium, maxPremium);
             if (filtered.isEmpty()) return filtered;
@@ -108,7 +110,7 @@ public class PolicyService {
             if (filtered.isEmpty()) return filtered;
         }
 
-        return sortPolicies(filtered, sortOrder);
+        return filtered;
     }
 
 
@@ -134,7 +136,7 @@ public class PolicyService {
     private List<Policy> sortPolicies(List<Policy> policies, String order) {
         if (order != null) {
             if ("desc".equalsIgnoreCase(order)) {
-                policies.stream().sorted(Comparator.comparing(Policy::getName).reversed()).toList();
+                policies =  policies.stream().sorted(Comparator.comparing(Policy::getName).reversed()).toList();
             } else {
                 policies = policies.stream()
                         .sorted(Comparator.comparing(Policy::getName))
