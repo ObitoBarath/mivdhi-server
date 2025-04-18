@@ -48,22 +48,7 @@ This is a Spring Boot 3.4.4 backend application built with Java 21, designed to 
 
 JUnit 5 is configured with the `useJUnitPlatform()` setting.
 
----
 
-## 🗃 Project Structure
-
-```
-mivdhi-server/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   └── resources/
-│   └── test/
-├── build.gradle
-└── settings.gradle
-```
-
----
 
 ## 🔌 Dependencies
 
