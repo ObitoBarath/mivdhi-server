@@ -35,3 +35,23 @@ dependencies {
 tasks.named('test') {
     useJUnitPlatform()
 }
+
+import org.apache.tools.ant.taskdefs.condition.Os
+
+// 👇 Task to run `npm run build` inside the Vite frontend
+task buildFrontend(type: Exec) {
+    workingDir = file('../mivdhi-client')
+    commandLine = Os.isFamily(Os.FAMILY_WINDOWS)
+            ? ['cmd', '/c', 'npm run build']
+            : ['npm', 'run', 'build']
+}
+
+// 👇 Task to copy built frontend files to Spring Boot static directory
+task copyFrontend(type: Copy) {
+    dependsOn buildFrontend
+    from '../mivdhi-client/dist'
+    into 'src/main/resources/static'
+}
+
+// 👇 Ensure frontend is built and copied before resources are processed
+processResources.dependsOn copyFrontend
