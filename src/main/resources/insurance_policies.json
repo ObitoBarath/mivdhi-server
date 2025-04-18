@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "name": "Secure Future Term Life",
+        "type": "Term Life",
+        "premium": 5000,
+        "coverage": 1000000
+    },
+    {
+        "id": 2,
+        "name": "Health Shield Plan",
+        "type": "Health",
+        "premium": 3000,
+        "coverage": 500000
+    },
+    {
+        "id": 3,
+        "name": "Car Protect Plan",
+        "type": "Vehicle",
+        "premium": 2000,
+        "coverage": 300000
+    },
+    {
+        "id": 4,
+        "name": "Car",
+        "type": "Vehicle",
+        "premium": 2000,
+        "coverage": 300000
+    },
+    {
+        "id": 5,
+        "name": "Carz Plan",
+        "type": "Vehicle",
+        "premium": 2000,
+        "coverage": 300000
+    },
+    {
+        "id": 6,
+        "name": "Policy Plan 6",
+        "type": "Critical Illness",
+        "premium": 8759,
+        "coverage": 376764
+    },
+    {
+        "id": 7,
+        "name": "Policy Plan 7",
+        "type": "Home",
+        "premium": 6354,
+        "coverage": 1949175
+    },
+    {
+        "id": 8,
+        "name": "Policy Plan 8",
+        "type": "Term Life",
+        "premium": 1477,
+        "coverage": 112534
+    },
+    {
+        "id": 9,
+        "name": "Policy Plan 9",
+        "type": "Vehicle",
+        "premium": 6253,
+        "coverage": 763434
+    },
+    {
+        "id": 10,
+        "name": "Policy Plan 10",
+        "type": "Term Life",
+        "premium": 4850,
+        "coverage": 759992
+    },
+    {
+        "id": 11,
+        "name": "Policy Plan 11",
+        "type": "Critical Illness",
+        "premium": 9483,
+        "coverage": 827851
+    },
+    {
+        "id": 12,
+        "name": "Policy Plan 12",
+        "type": "Travel",
+        "premium": 1004,
+        "coverage": 845077
+    },
+    {
+        "id": 13,
+        "name": "Policy Plan 13",
+        "type": "Health",
+        "premium": 6189,
+        "coverage": 1792550
+    },
+    {
+        "id": 14,
+        "name": "Policy Plan 14",
+        "type": "Travel",
+        "premium": 3238,
+        "coverage": 1308569
+    },
+    {
+        "id": 15,
+        "name": "Policy Plan 15",
+        "type": "Health",
+        "premium": 8112,
+        "coverage": 1023213
+    },
+    {
+        "id": 16,
+        "name": "Policy Plan 16",
+        "type": "Critical Illness",
+        "premium": 1153,
+        "coverage": 1561263
+    },
+    {
+        "id": 17,
+        "name": "Policy Plan 17",
+        "type": "Health",
+        "premium": 2828,
+        "coverage": 1711033
+    },
+    {
+        "id": 18,
+        "name": "Policy Plan 18",
+        "type": "Vehicle",
+        "premium": 6394,
+        "coverage": 1926583
+    },
+    {
+        "id": 19,
+        "name": "Policy Plan 19",
+        "type": "Health",
+        "premium": 2865,
+        "coverage": 182550
+    },
+    {
+        "id": 20,
+        "name": "Policy Plan 20",
+        "type": "Vehicle",
+        "premium": 1666,
+        "coverage": 326607
+    },
+    {
+        "id": 21,
+        "name": "Policy Plan 21",
+        "type": "Home",
+        "premium": 5878,
+        "coverage": 1211448
+    },
+    {
+        "id": 22,
+        "name": "Policy Plan 22",
+        "type": "Critical Illness",
+        "premium": 6167,
+        "coverage": 350512
+    },
+    {
+        "id": 23,
+        "name": "Policy Plan 23",
+        "type": "Health",
+        "premium": 3551,
+        "coverage": 1264653
+    },
+    {
+        "id": 24,
+        "name": "Policy Plan 24",
+        "type": "Health",
+        "premium": 7467,
+        "coverage": 891030
+    },
+    {
+        "id": 25,
+        "name": "Policy Plan 25",
+        "type": "Term Life",
+        "premium": 4000,
+        "coverage": 1360154
+    },
+    {
+        "id": 26,
+        "name": "Policy Plan 26",
+        "type": "Health",
+        "premium": 9585,
+        "coverage": 1223089
+    },
+    {
+        "id": 27,
+        "name": "Policy Plan 27",
+        "type": "Travel",
+        "premium": 6112,
+        "coverage": 1115120
+    },
+    {
+        "id": 28,
+        "name": "Policy Plan 28",
+        "type": "Vehicle",
+        "premium": 9372,
+        "coverage": 481707
+    },
+    {
+        "id": 29,
+        "name": "Policy Plan 29",
+        "type": "Health",
+        "premium": 4796,
+        "coverage": 1805815
+    },
+    {
+        "id": 30,
+        "name": "Policy Plan 30",
+        "type": "Term Life",
+        "premium": 9330,
+        "coverage": 258066
+    },
+    {
+        "id": 31,
+        "name": "Policy Plan 31",
+        "type": "Travel",
+        "premium": 2950,
+        "coverage": 1336905
+    },
+    {
+        "id": 32,
+        "name": "Policy Plan 32",
+        "type": "Critical Illness",
+        "premium": 8437,
+        "coverage": 859089
+    },
+    {
+        "id": 33,
+        "name": "Policy Plan 33",
+        "type": "Travel",
+        "premium": 6075,
+        "coverage": 1638890
+    },
+    {
+        "id": 34,
+        "name": "Policy Plan 34",
+        "type": "Critical Illness",
+        "premium": 1988,
+        "coverage": 1170119
+    },
+    {
+        "id": 35,
+        "name": "Policy Plan 35",
+        "type": "Home",
+        "premium": 8614,
+        "coverage": 1991966
+    },
+    {
+        "id": 36,
+        "name": "Policy Plan 36",
+        "type": "Critical Illness",
+        "premium": 4727,
+        "coverage": 1497539
+    },
+    {
+        "id": 37,
+        "name": "Policy Plan 37",
+        "type": "Critical Illness",
+        "premium": 8258,
+        "coverage": 1367287
+    },
+    {
+        "id": 38,
+        "name": "Policy Plan 38",
+        "type": "Home",
+        "premium": 5432,
+        "coverage": 1254768
+    },
+    {
+        "id": 39,
+        "name": "Policy Plan 39",
+        "type": "Term Life",
+        "premium": 6411,
+        "coverage": 1799611
+    },
+    {
+        "id": 40,
+        "name": "Policy Plan 40",
+        "type": "Vehicle",
+        "premium": 3484,
+        "coverage": 155317
+    },
+    {
+        "id": 41,
+        "name": "Policy Plan 41",
+        "type": "Term Life",
+        "premium": 9173,
+        "coverage": 1058318
+    },
+    {
+        "id": 42,
+        "name": "Policy Plan 42",
+        "type": "Health",
+        "premium": 8771,
+        "coverage": 501504
+    },
+    {
+        "id": 43,
+        "name": "Policy Plan 43",
+        "type": "Vehicle",
+        "premium": 2263,
+        "coverage": 1817244
+    },
+    {
+        "id": 44,
+        "name": "Policy Plan 44",
+        "type": "Critical Illness",
+        "premium": 3590,
+        "coverage": 501197
+    },
+    {
+        "id": 45,
+        "name": "Policy Plan 45",
+        "type": "Health",
+        "premium": 7731,
+        "coverage": 536779
+    },
+    {
+        "id": 46,
+        "name": "Policy Plan 46",
+        "type": "Health",
+        "premium": 9236,
+        "coverage": 441068
+    },
+    {
+        "id": 47,
+        "name": "Policy Plan 47",
+        "type": "Health",
+        "premium": 2817,
+        "coverage": 527359
+    },
+    {
+        "id": 48,
+        "name": "Policy Plan 48",
+        "type": "Critical Illness",
+        "premium": 6403,
+        "coverage": 885059
+    },
+    {
+        "id": 49,
+        "name": "Policy Plan 49",
+        "type": "Home",
+        "premium": 1501,
+        "coverage": 1796360
+    },
+    {
+        "id": 50,
+        "name": "Policy Plan 50",
+        "type": "Health",
+        "premium": 6839,
+        "coverage": 567844
+    },
+    {
+        "id": 51,
+        "name": "Policy Plan 51",
+        "type": "Travel",
+        "premium": 8221,
+        "coverage": 1812828
+    },
+    {
+        "id": 52,
+        "name": "Policy Plan 52",
+        "type": "Health",
+        "premium": 1726,
+        "coverage": 727265
+    },
+    {
+        "id": 53,
+        "name": "Policy Plan 53",
+        "type": "Home",
+        "premium": 4675,
+        "coverage": 742769
+    },
+    {
+        "id": 54,
+        "name": "Policy Plan 54",
+        "type": "Home",
+        "premium": 6235,
+        "coverage": 1198437
+    },
+    {
+        "id": 55,
+        "name": "Policy Plan 55",
+        "type": "Vehicle",
+        "premium": 4452,
+        "coverage": 1016181
+    },
+    {
+        "id": 56,
+        "name": "Policy Plan 56",
+        "type": "Home",
+        "premium": 9285,
+        "coverage": 1511808
+    },
+    {
+        "id": 57,
+        "name": "Policy Plan 57",
+        "type": "Vehicle",
+        "premium": 5207,
+        "coverage": 595426
+    },
+    {
+        "id": 58,
+        "name": "Policy Plan 58",
+        "type": "Critical Illness",
+        "premium": 5675,
+        "coverage": 854002
+    },
+    {
+        "id": 59,
+        "name": "Policy Plan 59",
+        "type": "Vehicle",
+        "premium": 5362,
+        "coverage": 1386559
+    },
+    {
+        "id": 60,
+        "name": "Policy Plan 60",
+        "type": "Term Life",
+        "premium": 9162,
+        "coverage": 1327851
+    },
+    {
+        "id": 61,
+        "name": "Policy Plan 61",
+        "type": "Vehicle",
+        "premium": 9012,
+        "coverage": 581891
+    },
+    {
+        "id": 62,
+        "name": "Policy Plan 62",
+        "type": "Vehicle",
+        "premium": 8119,
+        "coverage": 1968621
+    },
+    {
+        "id": 63,
+        "name": "Policy Plan 63",
+        "type": "Critical Illness",
+        "premium": 8417,
+        "coverage": 1286886
+    },
+    {
+        "id": 64,
+        "name": "Policy Plan 64",
+        "type": "Travel",
+        "premium": 1776,
+        "coverage": 1533351
+    },
+    {
+        "id": 65,
+        "name": "Policy Plan 65",
+        "type": "Critical Illness",
+        "premium": 7447,
+        "coverage": 413463
+    },
+    {
+        "id": 66,
+        "name": "Policy Plan 66",
+        "type": "Health",
+        "premium": 4386,
+        "coverage": 972055
+    },
+    {
+        "id": 67,
+        "name": "Policy Plan 67",
+        "type": "Home",
+        "premium": 6506,
+        "coverage": 1412471
+    },
+    {
+        "id": 68,
+        "name": "Policy Plan 68",
+        "type": "Critical Illness",
+        "premium": 5447,
+        "coverage": 206196
+    },
+    {
+        "id": 69,
+        "name": "Policy Plan 69",
+        "type": "Critical Illness",
+        "premium": 3115,
+        "coverage": 419606
+    },
+    {
+        "id": 70,
+        "name": "Policy Plan 70",
+        "type": "Vehicle",
+        "premium": 1243,
+        "coverage": 209648
+    },
+    {
+        "id": 71,
+        "name": "Policy Plan 71",
+        "type": "Travel",
+        "premium": 1678,
+        "coverage": 1336912
+    },
+    {
+        "id": 72,
+        "name": "Policy Plan 72",
+        "type": "Critical Illness",
+        "premium": 2441,
+        "coverage": 333280
+    },
+    {
+        "id": 73,
+        "name": "Policy Plan 73",
+        "type": "Vehicle",
+        "premium": 3697,
+        "coverage": 686455
+    },
+    {
+        "id": 74,
+        "name": "Policy Plan 74",
+        "type": "Home",
+        "premium": 8685,
+        "coverage": 1668589
+    },
+    {
+        "id": 75,
+        "name": "Policy Plan 75",
+        "type": "Home",
+        "premium": 2431,
+        "coverage": 1922475
+    },
+    {
+        "id": 76,
+        "name": "Policy Plan 76",
+        "type": "Critical Illness",
+        "premium": 1874,
+        "coverage": 299971
+    },
+    {
+        "id": 77,
+        "name": "Policy Plan 77",
+        "type": "Term Life",
+        "premium": 4557,
+        "coverage": 1949793
+    },
+    {
+        "id": 78,
+        "name": "Policy Plan 78",
+        "type": "Vehicle",
+        "premium": 2707,
+        "coverage": 1442390
+    },
+    {
+        "id": 79,
+        "name": "Policy Plan 79",
+        "type": "Vehicle",
+        "premium": 4026,
+        "coverage": 486701
+    },
+    {
+        "id": 80,
+        "name": "Policy Plan 80",
+        "type": "Travel",
+        "premium": 2444,
+        "coverage": 1748810
+    },
+    {
+        "id": 81,
+        "name": "Policy Plan 81",
+        "type": "Term Life",
+        "premium": 6322,
+        "coverage": 865776
+    },
+    {
+        "id": 82,
+        "name": "Policy Plan 82",
+        "type": "Critical Illness",
+        "premium": 1969,
+        "coverage": 289325
+    },
+    {
+        "id": 83,
+        "name": "Policy Plan 83",
+        "type": "Vehicle",
+        "premium": 4056,
+        "coverage": 1945881
+    },
+    {
+        "id": 84,
+        "name": "Policy Plan 84",
+        "type": "Home",
+        "premium": 3570,
+        "coverage": 849447
+    },
+    {
+        "id": 85,
+        "name": "Policy Plan 85",
+        "type": "Term Life",
+        "premium": 5381,
+        "coverage": 1752454
+    },
+    {
+        "id": 86,
+        "name": "Policy Plan 86",
+        "type": "Health",
+        "premium": 3070,
+        "coverage": 746301
+    },
+    {
+        "id": 87,
+        "name": "Policy Plan 87",
+        "type": "Health",
+        "premium": 7427,
+        "coverage": 1010370
+    },
+    {
+        "id": 88,
+        "name": "Policy Plan 88",
+        "type": "Critical Illness",
+        "premium": 3801,
+        "coverage": 981161
+    },
+    {
+        "id": 89,
+        "name": "Policy Plan 89",
+        "type": "Health",
+        "premium": 7270,
+        "coverage": 731022
+    },
+    {
+        "id": 90,
+        "name": "Policy Plan 90",
+        "type": "Home",
+        "premium": 3954,
+        "coverage": 105539
+    },
+    {
+        "id": 91,
+        "name": "Policy Plan 91",
+        "type": "Travel",
+        "premium": 5715,
+        "coverage": 244774
+    },
+    {
+        "id": 92,
+        "name": "Policy Plan 92",
+        "type": "Vehicle",
+        "premium": 3950,
+        "coverage": 1812366
+    },
+    {
+        "id": 93,
+        "name": "Policy Plan 93",
+        "type": "Travel",
+        "premium": 9139,
+        "coverage": 1326973
+    },
+    {
+        "id": 94,
+        "name": "Policy Plan 94",
+        "type": "Vehicle",
+        "premium": 9937,
+        "coverage": 1804826
+    },
+    {
+        "id": 95,
+        "name": "Policy Plan 95",
+        "type": "Vehicle",
+        "premium": 3253,
+        "coverage": 1221464
+    },
+    {
+        "id": 96,
+        "name": "Policy Plan 96",
+        "type": "Travel",
+        "premium": 3959,
+        "coverage": 500905
+    },
+    {
+        "id": 97,
+        "name": "Policy Plan 97",
+        "type": "Home",
+        "premium": 6691,
+        "coverage": 1102825
+    },
+    {
+        "id": 98,
+        "name": "Policy Plan 98",
+        "type": "Vehicle",
+        "premium": 7132,
+        "coverage": 1623506
+    },
+    {
+        "id": 99,
+        "name": "Policy Plan 99",
+        "type": "Vehicle",
+        "premium": 3852,
+        "coverage": 1144511
+    },
+    {
+        "id": 100,
+        "name": "Policy Plan 100",
+        "type": "Term Life",
+        "premium": 6259,
+        "coverage": 831335
+    }
+]
